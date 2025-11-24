@@ -289,14 +289,4 @@ hotel-management-system/
     └── mysql-connector-java.jar   # JDBC driver
 ```
 
-## Future Enhancements
-
-- Export reservations to PDF/Excel
-- Email confirmation system
-- Multiple user roles and authentication
-- Payment processing integration
-- Customer loyalty program
-- Room maintenance scheduling
-- Multi-hotel support
-- Mobile app integration
 
